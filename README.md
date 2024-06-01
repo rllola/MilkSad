@@ -1,8 +1,8 @@
 # Milk Sad vulnerability
 
-This project reproduce the vulnerability found in libbitcoin named "Milk Sad". The lib replaced its random number generator by a pseudo one relying timestamp for entropy.
+This project reproduce the vulnerability found in libbitcoin named "Milk Sad". The lib replaced its random number generator by a pseudo one relying on timestamp for entropy.
 
-All the credits to the Milk Sad team fo their work (https://milksad.info/).
+All the credits to the Milk Sad team for their work (https://milksad.info/).
 
 ## How to use it 
 
